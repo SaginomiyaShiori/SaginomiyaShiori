@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Email: SaginomiyaShiori@protonmail.com | 
-shiori@duck.com (via duckduckgo)
+shiori@duck.com
 
 Matrix: [@shiori:mozilla.org](https://matrix.to/#/@shiori:mozilla.org)
 
