@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Email: SaginomiyaShiori@protonmail.com | 
-shiori@duck.com
-
-Matrix: [@shiori:mozilla.org](https://matrix.to/#/@shiori:mozilla.org)
+Email: SaginomiyaShiori@protonmail.com
 
 PGP-Key: [0xC5382150CE2F8A86](https://keys.openpgp.org/vks/v1/by-fingerprint/75CF3525F329944B485861ECC5382150CE2F8A86)
 ```
